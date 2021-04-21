@@ -17,9 +17,9 @@ body {
 
 h1 {
   font-family: 'Nunito Sans', 'Courier New', Courier, monospace;
-  font-size: 27px;
+  font-size: 26px;
   text-transform: uppercase;
-  margin: 12px auto;
+  margin: 0 auto 10px;
 }
 
 .underline {

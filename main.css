@@ -11,11 +11,25 @@ section {
   cursor: not-allowed;
 }
 
+body {
+  padding: .937rem;
+}
+
 h1 {
   font-family: 'Nunito Sans', 'Courier New', Courier, monospace;
   font-size: 27px;
   text-transform: uppercase;
+}
+
+.underline {
   text-decoration: underline;
 }
 
-img { max-width: 800px; }
+img {
+  max-width: 800px;
+  width: 90%;
+}
+
+#logo {
+  margin-top: 30px;
+}

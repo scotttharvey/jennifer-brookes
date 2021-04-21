@@ -19,12 +19,14 @@ h1 {
   font-family: 'Nunito Sans', 'Courier New', Courier, monospace;
   font-size: 27px;
   text-transform: uppercase;
-  margin-bottom: 12px
+  margin: 12px auto;
 }
 
 .underline {
   text-decoration: underline;
 }
+
+.m-auto { margin: auto; }
 
 img {
   max-width: 800px;
